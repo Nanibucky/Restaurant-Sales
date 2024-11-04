@@ -1,5 +1,4 @@
 # Restaurant Sales Forecasting Using Time Series Analysis
-
 ## Project Overview
 A time series analysis project implementing ARIMA and SARIMA models to forecast restaurant sales. The project analyzes 2.5 years of daily sales data to predict future revenue trends and provide actionable business insights.
 
